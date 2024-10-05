@@ -33,6 +33,9 @@ https://www.hdfeos.org/software/h5py.php
 This tool should be able to extract multi-spectral data from the ASTER data set:
 "The Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) obtains high-resolution images of Earth in 14 different wavelengths of the electromagnetic spectrum, ranging from visible to thermal infrared light. Scientists use ASTER data to create detailed maps of land surface temperature, emissivity, reflectance, and elevation. ASTER is the only high spatial resolution instrument aboard the Terra satellite. "
 
+There is a HDF viewer available from:
+https://github.com/HDFGroup/hdfview/releases/tag/v3.3.2
+
 #### Soil Moisture
 The SMAP (Soil Moisture Active Passive) satellite provide soil moisture date at 9km resolution.
 
