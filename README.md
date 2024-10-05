@@ -36,10 +36,13 @@ This tool should be able to extract multi-spectral data from the ASTER data set:
 There is a HDF viewer available from:
 https://github.com/HDFGroup/hdfview/releases/tag/v3.3.2
 
+![global emissivity](/images/raub-ged.png)
+
 ##### NDVI Normalized Difference Vegetation Index
 This data set looks promising!
 
 ![ndvi](/images/raub-ndvi.png)
+
 
 
 #### Soil Moisture
