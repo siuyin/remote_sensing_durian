@@ -28,5 +28,7 @@ Here NASA worldview link for soil moisture in the Raub region on 2023-Aug-05 (Du
 https://worldview.earthdata.nasa.gov/?v=97.8519037473553,1.8593583483940634,104.38676061836128,5.147208211618951&ici=3&icd=1&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,SMAP_L2_Passive_Enhanced_Day_Soil_Moisture_Option1,ASTER_GDEM_Color_Shaded_Relief(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=false&t=2023-08-05-T12%3A00%3A00Z
 
 And this is image snapshot.
+Yellow is dry and Blue is wet.
+
 ![raub soil moisture snapshot](/images/raub-smap.png)
 
