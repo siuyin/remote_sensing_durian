@@ -32,3 +32,12 @@ Yellow is dry and Blue is wet.
 
 ![raub soil moisture snapshot](/images/raub-smap.png)
 
+## Google Earth data
+
+Google Earth (Cloud-free) data on the Raub region.
+https://earth.google.com/web/search/raub+pahang/@3.84068769,101.85897802,144.83445023a,519.37912909d,35y,0h,0t,0r/data=CnoaTBJGCiUweDMxY2JlZjlmNGZlZTM4YWY6MHhkNjY5OGUzOWNmNjE5YTBlGcKiIk4nWQ5AIYd9TLXgdllAKgtyYXViIHBhaGFuZxgBIAEiJgokCdf6EVGrrxVAEQV5zacdbBRAGXSCBoCKOVlAISoOAtMqEVlAQgIIAToDCgEwSg0I____________ARAA
+
+The image snapshot below clearly shows dicernible patterns for durian plantations.
+
+![durian plantation snaphot](/images/raub-google-earth.png)
+
