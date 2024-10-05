@@ -21,6 +21,18 @@ This is a sample image showing the hilly high draining topography favourable for
 
 ![Raub area Digital Elevation Model](/images/raub-dem.png)
 
+#### Gobal Emissivity.
+ASTER sourced emissivity data is available:
+https://search.earthdata.nasa.gov/search/granules?p=C2763266348-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G2817962046-LPCLOUD&sb[0]=101.51367%2C3.46833%2C102.43213%2C3.97396&fi=ASTER&gdf=HDF&tl=1728126360.354!3!!
+
+It is in hdf-eos version 5 format.
+
+There is a python library available to work with hdf5. Get it here:
+https://www.hdfeos.org/software/h5py.php
+
+This tool should be able to extract multi-spectral data from the ASTER data set:
+"The Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) obtains high-resolution images of Earth in 14 different wavelengths of the electromagnetic spectrum, ranging from visible to thermal infrared light. Scientists use ASTER data to create detailed maps of land surface temperature, emissivity, reflectance, and elevation. ASTER is the only high spatial resolution instrument aboard the Terra satellite. "
+
 #### Soil Moisture
 The SMAP (Soil Moisture Active Passive) satellite provide soil moisture date at 9km resolution.
 
