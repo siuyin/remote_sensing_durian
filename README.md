@@ -19,4 +19,4 @@ https://search.earthdata.nasa.gov/search/granules?portal=idn&p=C2439422590-LPCLO
 
 This is a sample image showing the hilly high draining topography favourable for durian growth.
 
-![Raub Digital Elevation Model]("images/Raub-digital-elevation-model-2024-10-05 17-57-05.png")
+![Raub Digital Elevation Model]("/images/Raub-digital-elevation-model-2024-10-05 17-57-05.png")
