@@ -45,7 +45,10 @@ Here is an image snapshot:
 
 ![ged schema](/images/ged-schema.png)
 
+I hit on a deadend here as GED data is a one time sample with version 3 released in Jan 2015.
+I need greater temporal resolution for my needs.
 
+Back to the drawing board..
 
 ##### NDVI Normalized Difference Vegetation Index
 This data set looks promising!
