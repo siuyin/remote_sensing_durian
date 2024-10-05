@@ -38,6 +38,15 @@ https://github.com/HDFGroup/hdfview/releases/tag/v3.3.2
 
 ![global emissivity](/images/raub-ged.png)
 
+The data schema is available here:
+https://lpdaac.usgs.gov/products/ag100v003/
+
+Here is an image snapshot:
+
+![ged schema](/images/ged-schema.png)
+
+
+
 ##### NDVI Normalized Difference Vegetation Index
 This data set looks promising!
 
