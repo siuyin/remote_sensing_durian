@@ -36,6 +36,12 @@ This tool should be able to extract multi-spectral data from the ASTER data set:
 There is a HDF viewer available from:
 https://github.com/HDFGroup/hdfview/releases/tag/v3.3.2
 
+##### NDVI Normalized Difference Vegetation Index
+This data set looks promising!
+
+![ndvi](/images/raub-ndvi.png)
+
+
 #### Soil Moisture
 The SMAP (Soil Moisture Active Passive) satellite provide soil moisture date at 9km resolution.
 
